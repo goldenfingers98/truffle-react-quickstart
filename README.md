@@ -1,5 +1,9 @@
 # truffle-react-quickstart
 
+0.1- open ganache and start new instance <br>
+0.2- truffle migrate <br>
+0.3- import a wallet and start the dDpp  <br>
+
 1- install the dependencies <br>
 ```sh
 cd client
