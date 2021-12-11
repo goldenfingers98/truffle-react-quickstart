@@ -15,4 +15,7 @@ npm i
 
 <br>
 to execute a view, or<br>
+
 >>>>instance.methods.method_name(args).send({from:address}).then(res=>{})
+
+
