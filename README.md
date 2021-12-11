@@ -8,7 +8,7 @@ npm i
 <br>
 2- add your methods in the smart contract<br>
 3- add your components<br>
-4- import "instance" and "address" using "useSelector"
+4- import "instance" and "address" using "useSelector"<br>
 5- execute your methods <br>
 
 >>>>instance.methods.method_name(args).call({from:address}).then(res=>{})
