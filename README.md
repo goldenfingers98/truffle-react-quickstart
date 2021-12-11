@@ -10,11 +10,9 @@ npm i
 3- add your components<br>
 4- import "instance" and "address" using "useSelector"
 5- execute your methods <br>
-```sh
-instance.methods.method_name(args).call({from:address}).then(res=>{})
-``` 
+
+>>>>instance.methods.method_name(args).call({from:address}).then(res=>{})
+
 <br>
 to execute a view, or<br>
-```sh
-instance.methods.method_name(args).send({from:address}).then(res=>{})
-``` 
+>>>>instance.methods.method_name(args).send({from:address}).then(res=>{})
